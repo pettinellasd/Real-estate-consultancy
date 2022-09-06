@@ -47,7 +47,6 @@ To facilitate its visualization, the map (saved in html format within the direct
  - install the required modules in the project (eg.  pandas) by going to: 
 file > settings > project > project interpreter > use the + symbol at the top right > search for modules and install them
 
-To launch the script you need to run the  first analysis, then the second and ![Uploading Senza titolo.png…]()
-finally the third (to get the data in the database table you will need to replace the parameters of MySQL connections with your own).
+To launch the script you need to run the  first analysis, then the second and finally the third (to get the data in the database table you will need to replace the parameters of MySQL connections with your own).
 
 PS: I inserted both the original files in .py format and the files in jupyter notebook. The latter have the comment to the code in English.
